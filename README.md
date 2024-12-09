@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mustangwaves. You can call me Aaron.
 - 👀 I’m interested in ... Exploring the world of coding. My goal is to become a Software Engineer.
-- 🌱 I’m currently learning ... Python, JavaScript, C++, and Dart.
+- 🌱 I’m currently learning ... C++, ReactJS, Java
